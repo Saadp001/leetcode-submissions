@@ -5,7 +5,7 @@ public:
         unordered_map<int, int>mp;
         for(int i = 0; i < time.size(); i++)
         {
-            int val = abs(time[i] - 600) % 60;
+            int val = abs(time[i] - 1200) % 60;
             cout << val << endl;
             if(mp.find(val) != mp.end())
                 count += mp[val];
