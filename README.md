@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Saadp001/leetcode-submissions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saadp001/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/3731-find-missing-elements) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saadp001/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
