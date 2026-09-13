@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Saadp001/leetcode-submissions/tree/master/2443-sum-of-number-and-its-reverse) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Saadp001/leetcode-submissions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
