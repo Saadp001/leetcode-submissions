@@ -9,23 +9,22 @@ class Solution:
         if not root :
             return []
 
-        ans = []
-        q = deque([root])
+        res = []
+        q = collections.deque()
+        q.append(root)
 
         while q:
+            q_len = len(q)
             lvl = []
-            lvl_size = len(q)
 
-            for _ in range(lvl_size):
-                node = q.popleft()
-                lvl.append(node.val)
+            for _ in range(q_len):
+                node = q.popleft()  # node holds the object which have it's own val , left and right
 
-                if node.left:
+                if node:
+                    lvl.append(node.val)
                     q.append(node.left)
-
-                if node.right:
                     q.append(node.right)
+            if lvl:
+                res.append(lvl)
 
-            ans.append(lvl)
-
-        return ans                
+        return res
