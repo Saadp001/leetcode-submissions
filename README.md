@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saadp001/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Saadp001/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saadp001/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Saadp001/leetcode-submissions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saadp001/leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saadp001/leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Saadp001/leetcode-submissions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Saadp001/leetcode-submissions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saadp001/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
