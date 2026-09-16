@@ -9,15 +9,16 @@ class Solution:
         if not root:
             return 0
 
-        self.maxi = 1    
+        maxi = 1    
         
-        def solve(node, cnt):        
+        def solve(node, cnt):  
+            nonlocal maxi       
             if node is None:
-                self.maxi = max(self.maxi, cnt-1)
+                maxi = max(maxi, cnt-1)
                 return 
 
             solve(node.left,cnt+1)      
             solve(node.right, cnt+1)
 
         solve(root,1)
-        return self.maxi
+        return maxi
