@@ -14,16 +14,16 @@ class Solution:
         while q:
             lvl = []
             l_lvl = len(q)
-            
+        
             for _ in range(l_lvl):
                 node = q.popleft()
                 lvl.append(node.val)
-                if node.left:
-                    q.append(node.left)
                 if node.right:
                     q.append(node.right)
+                if node.left:
+                    q.append(node.left)
 
         if lvl:
             res.append(lvl)  
 
-        return res[-1][0]     
+        return res[-1][-1]     
