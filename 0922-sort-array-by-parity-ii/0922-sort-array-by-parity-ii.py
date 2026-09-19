@@ -3,22 +3,16 @@ class Solution:
         n = len(nums)
         ans = [0] * n
 
-        i = 0 
+        i = 0
         for num in nums:
             if num % 2 == 0:
-                while i < n:
-                    ans[i] = num
-                    i+=2
-                    break
+                ans[i] = num
+                i += 2
 
-        j = 1 
+        j = 1
         for num in nums:
             if num % 2 != 0:
-                while j < n:
-                    ans[j] = num
-                    j+=2
-                    break        
+                ans[j] = num
+                j += 2
 
-        return ans    
-
-            
+        return ans
