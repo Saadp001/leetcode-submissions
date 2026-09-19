@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Saadp001/leetcode-submissions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0922-sort-array-by-parity-ii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saadp001/leetcode-submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadp001/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saadp001/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saadp001/leetcode-submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saadp001/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saadp001/leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Saadp001/leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
