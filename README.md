@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Two Pointers
 |  |
@@ -235,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
