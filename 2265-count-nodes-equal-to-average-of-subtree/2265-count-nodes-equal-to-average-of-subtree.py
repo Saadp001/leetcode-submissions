@@ -1,30 +1,33 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
 class Solution:
-    def averageOfSubtree(self, root: TreeNode) -> int:
+    def averageOfSubtree(self, root: TreeNode | None) -> int:
+
         ans = 0
+
         def solve(node):
             nonlocal ans
 
             if not node:
-                return 0,0
+                return 0, 0
 
-            left_sum , left_cnt = solve(node.left)
-            right_sum, right_cnt = solve(node.right)
+            # Get sum and count from left subtree
+            left_sum, left_count = solve(node.left)
 
+            # Get sum and count from right subtree
+            right_sum, right_count = solve(node.right)
 
-            total_sum = left_sum + right_sum + node.val
-            total_cnt = left_cnt + right_cnt + 1
+            # Sum of current subtree
+            total_sum = node.val + left_sum + right_sum
 
-            if total_sum // total_cnt == node.val:
-                ans+=1
+            # Number of nodes in current subtree
+            total_count = 1 + left_count + right_count
 
-            return total_sum, total_cnt  
+            # Check whether current node == subtree average
+            if total_sum // total_count == node.val:
+                ans += 1
 
+            # Return information needed by parent
+            return total_sum, total_count
 
         solve(root)
+
         return ans
