@@ -3,10 +3,11 @@ class Solution:
         
         for i in range(len(nums)):
             total = 0
-            while nums[i]:
-                total+= nums[i]%10 
-                nums[i] = nums[i] //10
-
+            j = 0
+            val = str(nums[i])
+            while j < len(val):
+                total+= int(val[j])    
+                j+=1
             if total == i:
                 return i
                 break
