@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Saadp001/leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
