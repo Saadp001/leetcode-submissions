@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saadp001/leetcode-submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Saadp001/leetcode-submissions/tree/master/0058-length-of-last-word) |
+| [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
 ## Simulation
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Prefix Sum
 |  |
