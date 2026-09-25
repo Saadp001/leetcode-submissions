@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Saadp001/leetcode-submissions/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Saadp001/leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Saadp001/leetcode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Saadp001/leetcode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
