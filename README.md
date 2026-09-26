@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Saadp001/leetcode-submissions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Saadp001/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Saadp001/leetcode-submissions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Saadp001/leetcode-submissions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Saadp001/leetcode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0100-same-tree) |
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Saadp001/leetcode-submissions/tree/master/1051-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
