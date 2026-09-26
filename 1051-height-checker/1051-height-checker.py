@@ -1,16 +1,20 @@
 class Solution:
     def heightChecker(self, heights: list[int]) -> int:
-        nums = heights.copy()
-        cnt = 0
-        for i in range(len(nums)):
-            for j in range(0, len(nums)-i-1):
-                if nums[j] > nums[j+1]:
-                    nums[j], nums[j+1] = nums[j+1], nums[j]
-                   
+        count = [0] * 101
 
-        for i in range(len(nums)):
-            if nums[i] != heights[i]:
-                cnt+=1
+        for h in heights:
+            count[h] += 1
 
-        return cnt                     
+        ans = 0
+        expected = 0
 
+        for i in range(len(heights)):
+            while count[expected] == 0:
+                expected += 1
+
+            if heights[i] != expected:
+                ans += 1
+
+            count[expected] -= 1
+
+        return ans
