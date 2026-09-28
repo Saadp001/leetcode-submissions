@@ -8,9 +8,9 @@ class Solution:
                 hm[num] = cnt
                 cnt+=1
 
-        res = []
-        for num in arr:
-            if num in hm:
-                res.append(hm[num])
-
-        return res 
+        
+        for i in range(len(arr)):
+            if arr[i] in hm:
+                arr[i] = hm[arr[i]]
+ 
+        return arr
