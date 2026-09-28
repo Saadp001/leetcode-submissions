@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saadp001/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/Saadp001/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadp001/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saadp001/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Saadp001/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Saadp001/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saadp001/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/Saadp001/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 ## Newton's Method
 |  |
 | ------- |
