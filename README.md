@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Saadp001/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Saadp001/leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Saadp001/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saadp001/leetcode-submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Saadp001/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Saadp001/leetcode-submissions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0922-sort-array-by-parity-ii) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saadp001/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Saadp001/leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Saadp001/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
