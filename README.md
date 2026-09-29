@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0202-happy-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Saadp001/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Saadp001/leetcode-submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Saadp001/leetcode-submissions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Saadp001/leetcode-submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/Saadp001/leetcode-submissions/tree/master/0504-base-7) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Saadp001/leetcode-submissions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0922-sort-array-by-parity-ii) |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
