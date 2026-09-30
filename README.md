@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saadp001/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Saadp001/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1834-single-threaded-cpu](https://github.com/Saadp001/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadp001/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saadp001/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Saadp001/leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Saadp001/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/Saadp001/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [2126-destroying-asteroids](https://github.com/Saadp001/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [3731-find-missing-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Number Theory
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Saadp001/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Saadp001/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/Saadp001/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 ## Sliding Window
 |  |
 | ------- |
