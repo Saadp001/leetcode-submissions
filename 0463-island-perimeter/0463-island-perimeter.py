@@ -3,6 +3,7 @@ class Solution:
         visit = set()
         m = len(grid)
         n = len(grid[0])
+        directions = {(0,1),(0,-1),(1,0),(-1,0)}
 
         def dfs(i, j):
             if i >= m or j >= n or i <0 or j<0 or grid[i][j]==0:
@@ -11,11 +12,12 @@ class Solution:
                 return 0
 
             visit.add((i,j))
+            perim = 0
+            for di, dj in directions:
+                ni = i + di
+                nj = j + dj
+                perim += dfs(ni, nj)
 
-            perim = dfs(i, j+1)
-            perim += dfs(i+1,j)
-            perim += dfs(i,j-1)
-            perim += dfs(i-1, j)
             return perim
 
         for i in range(m):
