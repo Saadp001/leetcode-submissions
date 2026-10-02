@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Saadp001/leetcode-submissions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0212-word-search-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Saadp001/leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Saadp001/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
