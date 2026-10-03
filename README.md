@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Saadp001/leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -214,12 +215,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Saadp001/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
