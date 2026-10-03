@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Saadp001/leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Saadp001/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Saadp001/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saadp001/leetcode-submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Saadp001/leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Saadp001/leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/Saadp001/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saadp001/leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0419-battleships-in-a-board](https://github.com/Saadp001/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Saadp001/leetcode-submissions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 ## Data Stream
 |  |
 | ------- |
@@ -464,4 +468,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saadp001/leetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
