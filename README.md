@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Saadp001/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0419-battleships-in-a-board](https://github.com/Saadp001/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Saadp001/leetcode-submissions/tree/master/0463-island-perimeter) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Saadp001/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Saadp001/leetcode-submissions/tree/master/0767-reorganize-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Saadp001/leetcode-submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Saadp001/leetcode-submissions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Saadp001/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Saadp001/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saadp001/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Saadp001/leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -469,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saadp001/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
