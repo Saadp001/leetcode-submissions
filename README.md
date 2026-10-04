@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Saadp001/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Saadp001/leetcode-submissions/tree/master/1051-height-checker) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Saadp001/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1288-remove-covered-intervals](https://github.com/Saadp001/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Saadp001/leetcode-submissions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saadp001/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Saadp001/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Saadp001/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Saadp001/leetcode-submissions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Saadp001/leetcode-submissions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Saadp001/leetcode-submissions/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Saadp001/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Saadp001/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Quickselect
 |  |
 | ------- |
