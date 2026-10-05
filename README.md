@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Saadp001/leetcode-submissions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Saadp001/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Saadp001/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saadp001/leetcode-submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-last-stone-weight](https://github.com/Saadp001/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Saadp001/leetcode-submissions/tree/master/1051-height-checker) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Saadp001/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saadp001/leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Saadp001/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Saadp001/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Saadp001/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Saadp001/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Data Stream
 |  |
 | ------- |
