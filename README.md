@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/Saadp001/leetcode-submissions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Saadp001/leetcode-submissions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Saadp001/leetcode-submissions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Saadp001/leetcode-submissions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0212-word-search-ii) |
