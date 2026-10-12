@@ -1,29 +1,33 @@
 class Solution:
     def eventualSafeNodes(self, graph: list[list[int]]) -> list[int]:
-
         n = len(graph)
-        visited = [0] * n
+        outdegree = [0]*n
 
-        def dfs(node):
-            if visited[node] == 1:
-                return False
+        adj = [[] for _ in range(n)]
 
-            if visited[node] == 2:
-                return True
-
-            visited[node] = 1
+        for node in range(n):
+            outdegree[node] = len(graph[node])
 
             for nei in graph[node]:
-                if not dfs(nei):
-                    return False
+                adj[nei].append(node)
+ 
+        q = deque()
 
-            visited[node] = 2
-            return True
+        for i in range(n):
+            if outdegree[i] ==0:
+                q.append(i)
 
         ans = []
 
-        for i in range(n):
-            if dfs(i):
-                ans.append(i)
+        while q:
+            node = q.popleft()
+            ans.append(node)
 
-        return ans
+            for nei in adj[node]:
+                outdegree[nei] -= 1
+
+                if outdegree[nei] == 0:
+                    q.append(nei)
+
+        return sorted(ans)            
+
