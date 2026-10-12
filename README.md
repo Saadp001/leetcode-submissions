@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Saadp001/leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Saadp001/leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/Saadp001/leetcode-submissions/tree/master/0752-open-the-lock) |
+| [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Saadp001/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Saadp001/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Saadp001/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -571,8 +574,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Saadp001/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Saadp001/leetcode-submissions/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
