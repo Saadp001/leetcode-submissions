@@ -14,11 +14,10 @@ class Solution:
                 q.append(i)
 
         ans = []
-        comp = 0
         while q:
             node = q.popleft()
             ans.append(node)
-            comp +=1
+          
 
             for nei in adj[node]:
                 ind[nei] -= 1
@@ -26,4 +25,7 @@ class Solution:
                 if ind[nei] ==0:
                     q.append(nei)
         
-        return ans if numCourses == comp else []                 
+        if len(ans) == numCourses:
+            return ans
+
+        return []                    
