@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Saadp001/leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/Saadp001/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Saadp001/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Saadp001/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saadp001/leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
+| [0684-redundant-connection](https://github.com/Saadp001/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/Saadp001/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saadp001/leetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0684-redundant-connection](https://github.com/Saadp001/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 ## Bit Manipulation
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Saadp001/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Saadp001/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Saadp001/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 ## Z Algorithm
