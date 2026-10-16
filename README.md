@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Saadp001/leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saadp001/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Saadp001/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Saadp001/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Saadp001/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## DP on Trees
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Saadp001/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
+| [2685-count-the-number-of-complete-components](https://github.com/Saadp001/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Saadp001/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+| [2685-count-the-number-of-complete-components](https://github.com/Saadp001/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Z Algorithm
 |  |
 | ------- |
