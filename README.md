@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/Saadp001/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saadp001/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saadp001/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saadp001/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Saadp001/leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Saadp001/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saadp001/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/Saadp001/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saadp001/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Saadp001/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saadp001/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Saadp001/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saadp001/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saadp001/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saadp001/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
