@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Saadp001/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Saadp001/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Saadp001/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Saadp001/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Saadp001/leetcode-submissions/tree/master/1046-last-stone-weight) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/Saadp001/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Saadp001/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Saadp001/leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0684-redundant-connection](https://github.com/Saadp001/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Saadp001/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Saadp001/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Saadp001/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Saadp001/leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Saadp001/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Saadp001/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saadp001/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
@@ -613,4 +617,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saadp001/leetcode-submissions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saadp001/leetcode-submissions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
