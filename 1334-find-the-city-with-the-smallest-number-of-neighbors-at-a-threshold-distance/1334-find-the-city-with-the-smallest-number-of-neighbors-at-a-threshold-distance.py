@@ -27,22 +27,19 @@ class Solution:
                     if new_dis < dist[nei]:
                         dist[nei] = new_dis
                         heapq.heappush(h,(new_dis, nei))
-                 
-            return [d for d in dist if d != 0 and d != float('inf')]       
+            cnt = 0     
+            for d in dist:
+                if d != 0 and d != float('inf'):
+                    cnt+=1
+            return cnt, -src              
 
         new_dist = []
         for i in range(n):
             new_dist.append(solve(i))
         
-        ans = []
-        for i in range(n):
-            ans.append(len(new_dist[i]))
-        
-        mini = min(ans)
+        heapq.heapify(new_dist)
 
-        for i in range(n-1, -1, -1):
-            if ans[i] == mini:
-                return i
-
+        cnt, node = new_dist[0]
+        return -node
 
         
