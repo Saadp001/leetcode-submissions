@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Saadp001/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Saadp001/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Saadp001/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Saadp001/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Saadp001/leetcode-submissions/tree/master/0605-can-place-flowers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Saadp001/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/Saadp001/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Saadp001/leetcode-submissions/tree/master/0767-reorganize-string) |
