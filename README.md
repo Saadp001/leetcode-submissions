@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saadp001/leetcode-submissions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/Saadp001/leetcode-submissions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Saadp001/leetcode-submissions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Saadp001/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Saadp001/leetcode-submissions/tree/master/0130-surrounded-regions) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saadp001/leetcode-submissions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Saadp001/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saadp001/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Saadp001/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Saadp001/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0212-word-search-ii) |
