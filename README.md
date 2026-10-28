@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Saadp001/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Saadp001/leetcode-submissions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Saadp001/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saadp001/leetcode-submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0752-open-the-lock](https://github.com/Saadp001/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Saadp001/leetcode-submissions/tree/master/0792-number-of-matching-subsequences) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0739-daily-temperatures](https://github.com/Saadp001/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saadp001/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
@@ -707,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Saadp001/leetcode-submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
