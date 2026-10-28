@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saadp001/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Saadp001/leetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Graph Theory
