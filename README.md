@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Saadp001/leetcode-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saadp001/leetcode-submissions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Saadp001/leetcode-submissions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Saadp001/leetcode-submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Saadp001/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Saadp001/leetcode-submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Saadp001/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
