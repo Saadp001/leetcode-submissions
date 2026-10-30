@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Saadp001/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/Saadp001/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Saadp001/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saadp001/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Saadp001/leetcode-submissions/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saadp001/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Saadp001/leetcode-submissions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Saadp001/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Saadp001/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Saadp001/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Data Stream
 |  |
