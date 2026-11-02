@@ -1,15 +1,16 @@
 class Solution:
-    hm = {}
     def fib(self, n: int) -> int:
+        memo = [-1] * (n + 1)   # -1 means "not computed yet"
+
+        def solve(i):
+            if i <= 1:               # base cases: fib(0)=0, fib(1)=1
+                return i
+
+            if memo[i] != -1:        # 1. already computed? return it
+                return memo[i]
+
+            memo[i] = solve(i - 1) + solve(i - 2)   # 2. compute, 3. store
+            return memo[i]
+
+        return solve(n)
         
-        if n ==1 :
-            return 1
-        if n == 0:
-            return 0
-
-        if n in self.hm:
-            return self.hm[n]
-
-        self.hm[n] =  self.fib(n-1) + self.fib(n-2)          
-
-        return self.hm[n]   
