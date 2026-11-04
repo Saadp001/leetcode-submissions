@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saadp001/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/Saadp001/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saadp001/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Saadp001/leetcode-submissions/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/Saadp001/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saadp001/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Saadp001/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saadp001/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## DP on Trees
 |  |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saadp001/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saadp001/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saadp001/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Saadp001/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Saadp001/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/1260-shift-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Data Stream
 |  |
@@ -633,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Saadp001/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Saadp001/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saadp001/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
