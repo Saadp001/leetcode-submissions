@@ -750,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Saadp001/leetcode-submissions/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Saadp001/leetcode-submissions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
