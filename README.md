@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Saadp001/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saadp001/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Saadp001/leetcode-submissions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saadp001/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/Saadp001/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saadp001/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saadp001/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saadp001/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
