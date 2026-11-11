@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Saadp001/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Saadp001/leetcode-submissions/tree/master/1051-height-checker) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1207-unique-number-of-occurrences](https://github.com/Saadp001/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Saadp001/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/Saadp001/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/1260-shift-2d-grid) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saadp001/leetcode-submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Saadp001/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1189-maximum-number-of-balloons](https://github.com/Saadp001/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/Saadp001/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saadp001/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
