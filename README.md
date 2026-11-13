@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saadp001/leetcode-submissions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Saadp001/leetcode-submissions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Saadp001/leetcode-submissions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Saadp001/leetcode-submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Saadp001/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Saadp001/leetcode-submissions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Saadp001/leetcode-submissions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Saadp001/leetcode-submissions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Saadp001/leetcode-submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0212-word-search-ii) |
@@ -776,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Saadp001/leetcode-submissions/tree/master/0182-duplicate-emails) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Saadp001/leetcode-submissions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
