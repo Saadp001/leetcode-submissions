@@ -780,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Saadp001/leetcode-submissions/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Saadp001/leetcode-submissions/tree/master/0182-duplicate-emails) |
 ## Algorithm X
 |  |
