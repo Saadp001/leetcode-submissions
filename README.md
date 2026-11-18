@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Saadp001/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Saadp001/leetcode-submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saadp001/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
