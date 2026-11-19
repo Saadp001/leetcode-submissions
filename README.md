@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Saadp001/leetcode-submissions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saadp001/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Saadp001/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saadp001/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Saadp001/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Saadp001/leetcode-submissions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saadp001/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Saadp001/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saadp001/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Number Theory
