@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Saadp001/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/Saadp001/leetcode-submissions/tree/master/0752-open-the-lock) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Saadp001/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Saadp001/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saadp001/leetcode-submissions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Saadp001/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Saadp001/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Saadp001/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Saadp001/leetcode-submissions/tree/master/0504-base-7) |
 | [0752-open-the-lock](https://github.com/Saadp001/leetcode-submissions/tree/master/0752-open-the-lock) |
@@ -821,4 +824,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Saadp001/leetcode-submissions/tree/master/0051-n-queens) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
