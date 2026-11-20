@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saadp001/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saadp001/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Saadp001/leetcode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Saadp001/leetcode-submissions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saadp001/leetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Saadp001/leetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saadp001/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Saadp001/leetcode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saadp001/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Saadp001/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saadp001/leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Saadp001/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/Saadp001/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Saadp001/leetcode-submissions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Saadp001/leetcode-submissions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Math
 |  |
