@@ -1,8 +1,11 @@
 class Solution:
     def findDuplicate(self, nums: list[int]) -> int:
-        hm = {}
-        for num in nums:
-            hm[num] = hm.get(num, 0) + 1
+        s= set()
 
-            if hm[num] >1:
-                return num         
+        for num in nums:
+            if num in s:
+                return num
+            s.add(num)
+
+             
+    
