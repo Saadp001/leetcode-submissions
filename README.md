@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saadp001/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saadp001/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Saadp001/leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2105-watering-plants-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/2105-watering-plants-ii) |
 | [2126-destroying-asteroids](https://github.com/Saadp001/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saadp001/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Saadp001/leetcode-submissions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Saadp001/leetcode-submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Saadp001/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saadp001/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2105-watering-plants-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saadp001/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Saadp001/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Saadp001/leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Saadp001/leetcode-submissions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Saadp001/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Saadp001/leetcode-submissions/tree/master/1929-concatenation-of-array) |
+| [2105-watering-plants-ii](https://github.com/Saadp001/leetcode-submissions/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saadp001/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Saadp001/leetcode-submissions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Saadp001/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
