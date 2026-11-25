@@ -31,7 +31,7 @@ class Solution:
                 i += 1
                 
                 if bobCan < plants[j]:
-                    bobCan = capacityB;
+                    bobCan = capacityB
                     totalFills += 1
                 
                 bobCan -= plants[j]
